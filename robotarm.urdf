@@ -48,7 +48,7 @@
     <limit effort="10" velocity="2" lower="-1.57" upper="1.57"/>
   </joint>
 
-  <!-- JOINT 2: between link1 and link2 -->
+  <!-- JOINT 2:  between link1 and link2 -->
   <joint name="joint2" type="revolute">
     <parent link="link1"/>
     <child link="link2"/>
